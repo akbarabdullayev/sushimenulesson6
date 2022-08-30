@@ -1,0 +1,246 @@
+.sushi-bg {
+    width: 360px;
+    height: 2003px;
+    background-color: #f2f2f2;
+    margin: auto;
+  }
+  .vector {
+
+    width: 360px;
+    height: 62.5px;
+    margin: -1px;
+    background-color: #ffffff;
+    border: 0.5px solid #a4acad;
+  }
+  .text1 {
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 500;
+    font-size: 10.5px;
+    margin-top:10px;
+    margin-bottom: 34.5px;
+    margin-left: 110px;
+  }
+  .telnumber {
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 500;
+    font-size: 11px;
+    margin-top:-35px;
+    margin-bottom: 34.5px;
+    margin-left: 100px;
+    color: #FF9846;
+  }   
+  .img1 {
+    margin-top: -80px;
+    margin-left: 23px;
+  }
+  .dotext {
+    font-family: "Noto Sans JP", sans-serif;
+   font-size: 18px;
+   color: #f2f2f2;
+   font-weight: 500;
+   padding-top: 40px;
+   padding-left: 90px;
+  }
+  .viber {
+    font-family: "Noto Sans JP", sans-serif;
+    color:  #A4ACAD;
+    font-size: 18px;
+    margin-top: 25px;
+    line-height: 22px;
+    text-align: center;
+    margin-bottom: 249px;
+    padding-left:50px ;
+    padding-right: 50px;
+    font-weight: 400;
+  }
+  .telegram {
+    margin-top: 20px;
+    margin-left: 140px;
+  }
+  .telad {
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 400;
+    color:  #A4ACAD;
+    margin-left:10px;
+    line-height: 5px;
+    text-align: center;
+  }
+
+
+ .chasiim {
+   margin-top: -55px ;
+   margin-left:244.4px ;
+  
+
+ }
+ .rabotayem {
+  font-family: "Noto Sans JP", sans-serif;
+  margin-top: -20px;
+  font-size:10px ;
+  text-align: center ;
+  line-height:15px;
+  color: #A4ACAD;
+  margin-top: -8px;
+  margin-left: 210px;
+  margin-right: 50px;
+  
+ }
+ .setiim {
+   margin-top:15.5px;
+   margin-left:128px ;
+ }
+.seti{
+    font-family: "Noto Sans JP", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    margin-top:-35px;
+    margin-left: 170px;
+  }
+  .sartivec {
+    width: 330px;
+    height: 50px;
+    left: 17px;
+    top: 119px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+  .sartiim {
+    margin-top: -35px;
+    margin-left: 28px;
+  }
+  .sartirovka {
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 24px;
+    margin-top: -35px;
+    font-weight: 500;
+    margin-left: 65px;
+  }
+  .pizzav {
+    margin-top:-45px ;
+    margin-left: 300px;
+  }
+  .products {
+    width: 330px;
+    height: 120px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-top:25px;
+    margin-left: 15px;
+  }
+  .img {
+    margin-left: 18px;
+    margin-top: 18px;
+  }
+  .textpro {
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 14px;
+    margin-top: -100px;
+    margin-left: 130px;
+  }
+  .textpro1 {
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 14px;
+    margin-top: -10px;
+    margin-left: 130px;
+    color: #a4acad;
+  }
+  .textpro2 {
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 18px;
+    margin-top: 24px;
+    margin-left: 130px;
+  }
+   .button {
+    height: 26px;
+    width: 95px;
+    background-color:#F46D40;
+    border-radius:5px;
+    margin-top: -63px;
+    margin-left: 240px;
+   }
+    .xachu {
+    font-family: "Noto Sans JP", sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 23px; 
+    }
+    .padrob {
+        font-family: "Noto Sans JP", sans-serif;
+        font-size: 24px;
+        font-weight: 500;
+        color: #F46D40;
+        margin-top:-43px ;
+        margin-left:120px;
+    }
+    .padv {
+        margin-top: 100px;
+    } 
+    .ilovecode {
+        margin-top: 43px;
+        margin-left: 15x;
+    }
+  .hello {
+    width: 360px;
+    height: 72px;
+    margin: -1px;
+    background-color: #ffffff;
+    border: 0.5px solid #a4acad;
+    margin-top: 34px;
+  } 
+ .ima1 {
+  margin-top: 10px;
+  margin-left: 60px;
+ }
+ .ima2 {
+  margin-top: 10px;
+  margin-left: 40px;
+ }
+ .ima3 {
+ margin-top: 10px;
+ margin-left: 45px;
+ }
+ .menu {
+  margin-top: -5px;
+  font-family: "Noto Sans JP", sans-serif;
+  margin-left: 65px ;
+ }
+ .karz {
+  margin-top: -40px;
+  font-family: "Noto Sans JP", sans-serif;
+  margin-left: 150px ;
+ }
+ .ot {
+  margin-top: -40px;
+  font-family: "Noto Sans JP", sans-serif;
+  margin-left: 242px ;
+ }
+ .viberudob {
+    font-family: "Noto Sans JP", sans-serif;
+    margin-top: 20px;
+    margin-left:70px;
+    margin-right:68px ;
+    align-items: center;
+    text-align: center;
+    color: #A4ACAD;
+    font-weight: 400;
+    font-size: 18px;
+ }
+ .instagram {
+    margin-top: -280px;
+    margin-left: 240px;
+ }
+ .whatsup {
+    margin-top: -75px;
+    margin-left: 40px;
+ }
+
+
+    
+
+
+  
